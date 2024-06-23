@@ -42,3 +42,13 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 🗿 Considerações pessoais sobre o projeto
+Esse foi meu primeiro projeto de programação, onde utilizei a base de html, css e um pouco da linguagem de javascript, consegui aprender bem sobre, apesar de ter restado algumas dúvidas que.
+<br>
+
+ Acredito que consegui absorver muito do conteúdo passado, não me limitei ao replicar o que estava nas aulas tentei fazer itens sozinhos e obtive sucesso, no geral, serviu muito para meu aprendizado busquei alterar itens e testar funções enquanto realizava o mesmo, 
