@@ -3,7 +3,7 @@ function toggleMode() {
   html.classList.toggle("light")
   //pego a tag da imagem
   const img = document.querySelector("#profile img")
-  // substituo a imagem
+  // substituo a imzagem
   if (html.classList.contains("light")) {
     //se tiver em light mode, adiciono a imagem light
     img.setAttribute("src", "./assets/avatar2.png")
